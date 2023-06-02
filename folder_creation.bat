@@ -39,3 +39,16 @@ mkdir "principal_component_analyss-based_mvi_(pcamvi)"
 cd ..
 
 echo Pastas criadas com sucesso!
+
+REM Criação dos arquivos README.md
+echo ## expectation_maximization-based_mvi_(emmvi) > "expectation_maximization-based_mvi_(emmvi)\README.md"
+echo ## gaussian_mixture_model-based_mvi_(gmmmvi) > "gaussian_mixture_model-based_mvi_(gmmmvi)\README.md"
+echo ## hot_deck-based_mvi_(hdmi) > "hot_deck-based_mvi_(hdmi)\README.md"
+echo ## markov_chain_monte_carlo-based_mvi_(mcmcmvt) > "markov_chain_monte_carlo-based_mvi_(mcmcmvt)\README.md"
+echo ## least_square_(subgroup) > "least_square_(subgroup)\README.md"
+echo ## single_best_estimator-based_mvi_(sbemvi) > "single_best_estimator-based_mvi_(sbemvi)\README.md"
+echo ## linear_logistic_regression-based_mvi_(lrmvi) > "linear_logistic_regression-based_mvi_(lrmvi)\README.md"
+echo ## tensor_completion-based_mvi_(tmvi) > "tensor_completion-based_mvi_(tmvi)\README.md"
+echo ## information_decomposition-based_mvi_(idvivi) > "information_decomposition-based_mvi_(idvivi)\README.md"
+echo ## mean_median_mode_based_mvi_(mmvi) > "mean_median_mode_based_mvi_(mmvi)\README.md"
+echo ## matrix_completion-based_mvi_(mcmv) > "matrix_completion-based_mvi_(mcmv)\README
